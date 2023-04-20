@@ -26,13 +26,3 @@ A project to generate image and download images with artificial intelligence
 2. Tailwind: The most popular CSS framework nowadays
 3. OpenAI's DALL-E model: A deep learning model that generates images from text input
 4. Cloudinary: A cloud-based image storage service
-
----
-
-## 💻 Projeto
-
-Having fun with [this youtube tutorial](https://www.youtube.com/watch?v=EyIvuigqDoA)
-
----
-
-Feito com ♥ by Mayk Brito :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
